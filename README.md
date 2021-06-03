@@ -1,4 +1,4 @@
-<img src="/" alt="banner"  />
+<img src="/R_banner.png" alt="banner"  />
 
 ### Hi welcome to my GitHub page 👋
 
