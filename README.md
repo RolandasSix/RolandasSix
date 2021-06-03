@@ -19,4 +19,20 @@ My name is Rolandas Siksnelis and I am full stack developer from Vilnius, Lithua
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
+### Send me message!
 
+<p>
+  <a href="https://www.linkedin.com/in/rolandas-%C5%A1ik%C5%A1nelis-8b7899b5/">
+     <img
+       alt="Linkedin"
+       src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
+     />
+  </a>
+</p>
+
+---
+
+### GitHub stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?
+username=YourUsername
