@@ -35,4 +35,4 @@ My name is Rolandas Siksnelis and I am full stack developer from Vilnius, Lithua
 ### GitHub stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?
-username=RolandasSix&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
+username=RolandasSix&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Rolandas+Siksnelis's+GitHub+Stats&show_icons=true" />
